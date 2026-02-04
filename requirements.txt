@@ -1,0 +1,2 @@
+# Requires: phantom-unlikelihood
+# (Not available on PyPI)
